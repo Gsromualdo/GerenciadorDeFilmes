@@ -58,5 +58,23 @@
     "name": "Felipe",
     "email": "fe@teee.com",
     "password": "felipe098"
+  },
+  {
+    "id": 1790279108567,
+    "name": "Felipe Melo",
+    "email": "felipe@teste.com",
+    "password": "12345678"
+  },
+  {
+    "id": 1794337675334,
+    "name": "fulaninho",
+    "email": "fulaninho@teste.com",
+    "password": "fulaninho123"
+  },
+  {
+    "id": 1794407865202,
+    "name": "felipe",
+    "email": "t3@gmail.com",
+    "password": "12345678"
   }
 ]
