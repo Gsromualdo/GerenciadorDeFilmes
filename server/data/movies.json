@@ -6,8 +6,8 @@
     "genero": "Sci-Fi",
     "anoLancamento": 2021,
     "caminhoImagem": "/uploads/image-1765666339432-345152340.jpg",
-    "qtdVotos": 106,
-    "mediaVotos": 3.3613
+    "qtdVotos": 126,
+    "mediaVotos": 3.5816
   },
   {
     "id": 1765666870211,
@@ -16,7 +16,27 @@
     "genero": "Sci-Fi",
     "anoLancamento": 2014,
     "caminhoImagem": "/uploads/image-1765666870177-14156342.jpg",
-    "qtdVotos": 188,
-    "mediaVotos": 4.8421
+    "qtdVotos": 195,
+    "mediaVotos": 4.8119
+  },
+  {
+    "id": 1794939424621,
+    "titulo": "Breaking Bad",
+    "descricao": "Breaking Bad é uma aclamada série de drama e suspense americana criada por Vince Gilligan, exibida originalmente entre 2008 e 2013, com 5 temporadas e 62 episódios",
+    "genero": "Drama",
+    "anoLancamento": 2013,
+    "caminhoImagem": "/uploads/image-1794939424615-60688558.webp",
+    "qtdVotos": 2,
+    "mediaVotos": 4.5
+  },
+  {
+    "id": 1794940438727,
+    "titulo": "teste",
+    "descricao": "teste",
+    "genero": "ação",
+    "anoLancamento": 2026,
+    "caminhoImagem": "/uploads/image-1794940438725-621934183.webp",
+    "qtdVotos": 0,
+    "mediaVotos": 0
   }
 ]
